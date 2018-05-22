@@ -1,108 +1,107 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
-<FinalDraft DocumentType="Script" Template="No" Version="1">
-
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<FinalDraft DocumentType='Script' Template='No' Version='1'>
   <Content>
-    <Paragraph Type="Scene Heading">
+    <Paragraph Type='Scene Heading'>
       <Text>INT. A RESTAURANT, MID-DAY.</Text>
     </Paragraph>
-    <Paragraph Type="Action">
+    <Paragraph Type='Action'>
       <Text>JIM and FRED are sitting next to each other at the table, a couple half-eaten sandwiches between them.</Text>
     </Paragraph>
-    <Paragraph Type="Character">
+    <Paragraph Type='Character'>
       <Text>JIM</Text>
     </Paragraph>
-    <Paragraph Type="Parenthetical">
+    <Paragraph Type='Parenthetical'>
       <Text>(finishing a bite)</Text>
     </Paragraph>
-    <Paragraph Type="Dialogue">
+    <Paragraph Type='Dialogue'>
       <Text>So anyway I says to the guy, I says... um, what was I saying?</Text>
     </Paragraph>
-    <Paragraph Type="Character">
+    <Paragraph Type='Character'>
       <Text>FRED</Text>
     </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>You were saying he stole your pickles.</Text>
+    <Paragraph Type='Dialogue'>
+      <Text>You were saying he stole your pickles. And by the way. Who are you anyway?</Text>
     </Paragraph>
-    <Paragraph Type="Character">
+    <Paragraph Type='Character'>
       <Text>JIM</Text>
     </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>Oh yeah, so I says "Hey man, gimme back them dills," you know?  I can't eat this sandwich without my dills!</Text>
+    <Paragraph Type='Dialogue'>
+      <Text>Oh yeah, so I says &quot;Hey man, gimme back them dills,&quot; you know? I can&apos;t eat this sandwich without my dills!</Text>
     </Paragraph>
-    <Paragraph Type="Character">
+    <Paragraph Type='Character'>
       <Text>FRED</Text>
     </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>You're not kidding.  And don't try and tell me bread and butter is good.  Those things taste like sugary dreck.</Text>
+    <Paragraph Type='Dialogue'>
+      <Text>You&apos;re not kidding. And don&apos;t try and tell me bread and butter is good. Those things taste like sugary dreck.</Text>
     </Paragraph>
-    <Paragraph Type="Character">
+    <Paragraph Type='Character'>
       <Text>JIM</Text>
     </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>Yeah, so this guy looks at me, right in the face, you know?  And he says "Nope, these pickles are mine now.  Finders keepers."  Like he just found them in the street or something.</Text>
+    <Paragraph Type='Dialogue'>
+      <Text>Yeah, so this guy looks at me, right in the face, you know? And he says &quot;Nope, these pickles are mine now. Finders keepers.&quot; Like he just found them in the street or something.</Text>
     </Paragraph>
-    <Paragraph Type="Character">
+    <Paragraph Type='Character'>
       <Text>FRED</Text>
     </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>Now that's just plain rude!  Who does he think he is?</Text>
+    <Paragraph Type='Dialogue'>
+      <Text>Now that&apos;s just plain rude! Who does he think he is? And seriously, tell me your name!</Text>
     </Paragraph>
-    <Paragraph Type="Character">
+    <Paragraph Type='Character'>
       <Text>JIM</Text>
     </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>That's what I'm saying!  So now I'm thinking "Hey, is it worth it?  How much do these pickles mean to me?  Are they worth throwing a punch?  Am I dishonoring myself if I let this clown steal my pickles?"</Text>
+    <Paragraph Type='Dialogue'>
+      <Text>That&apos;s what I&apos;m saying! So now I&apos;m thinking &quot;Hey, is it worth it? How much do these pickles mean to me? Are they worth throwing a punch? Am I dishonoring myself if I let this clown steal my pickles?&quot;</Text>
     </Paragraph>
-    <Paragraph Type="Character">
+    <Paragraph Type='Character'>
       <Text>FRED</Text>
     </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>So what'd you do?</Text>
+    <Paragraph Type='Dialogue'>
+      <Text>So what&apos;d you do?</Text>
     </Paragraph>
-    <Paragraph Type="Character">
+    <Paragraph Type='Character'>
       <Text>JIM</Text>
     </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>I let him have it.  Pow!  Right in the schnoz.</Text>
+    <Paragraph Type='Dialogue'>
+      <Text>I let him have it. Pow! Right in the schnoz.</Text>
     </Paragraph>
-    <Paragraph Type="Character">
+    <Paragraph Type='Character'>
       <Text>FRED</Text>
     </Paragraph>
-    <Paragraph Type="Parenthetical">
+    <Paragraph Type='Parenthetical'>
       <Text>(A little stunned.)</Text>
     </Paragraph>
-    <Paragraph Type="Dialogue">
+    <Paragraph Type='Dialogue'>
       <Text>Wait, really?</Text>
     </Paragraph>
-    <Paragraph Type="Character">
+    <Paragraph Type='Character'>
       <Text>JIM</Text>
     </Paragraph>
-    <Paragraph Type="Parenthetical">
+    <Paragraph Type='Parenthetical'>
       <Text>(beat)</Text>
     </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>Nah, not really.  I went down to Vons, bought another jar, and came here.</Text>
+    <Paragraph Type='Dialogue'>
+      <Text>Nah, not really. I went down to Vons, bought another jar, and came here.</Text>
     </Paragraph>
-    <Paragraph Type="Action">
-      <Text Style="Bold">Pulls a jar out of a grocery bag, opens it, crunches on a spear.</Text>
+    <Paragraph Type='Action'>
+      <Text Style='Bold'>Pulls a jar out of a grocery bag, opens it, crunches on a spear.</Text>
     </Paragraph>
-    <Paragraph Type="Character">
+    <Paragraph Type='Character'>
       <Text>JIM (CONT.)</Text>
     </Paragraph>
-    <Paragraph Type="Dialogue">
+    <Paragraph Type='Dialogue'>
       <Text>These things are good and all, but I mean, what am I, a crazy person?</Text>
     </Paragraph>
-    <Paragraph Type="Character">
+    <Paragraph Type='Character'>
       <Text>FRED</Text>
     </Paragraph>
-    <Paragraph Type="Parenthetical">
+    <Paragraph Type='Parenthetical'>
       <Text>(beat)</Text>
     </Paragraph>
-    <Paragraph Type="Character">
+    <Paragraph Type='Character'>
       <Text>JIM</Text>
     </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>Don't answer that.</Text>
+    <Paragraph Type='Dialogue'>
+      <Text>Don&apos;t answer that.</Text>
     </Paragraph>
   </Content>
 </FinalDraft>
